@@ -4,7 +4,7 @@ from config import config
 
 DB_NAME = 'course_project_5'  # Название базы данных для проекта
 TABLE_NAME = 'vacancies'  # Название таблицы для заполнения вакансиями
-VACANCIES_COUNT = 300  # Ограничение максимального количества вакансий, чтобы не мучить Headhunter запросами
+VACANCIES_COUNT = 250  # Ограничение максимального количества вакансий, чтобы не мучить Headhunter запросами
 
 
 def main():
